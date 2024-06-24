@@ -4,6 +4,7 @@
 The objective of this project is to analyze the sales data to identify trends, seasonal effects, and key performance indicators (KPIs).
 
 ## Dataset Description
+Dataset URL: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 The dataset used for this analysis includes sales data with the following columns:
 - `Row ID`
 - `Order ID`
@@ -23,3 +24,4 @@ The dataset used for this analysis includes sales data with the following column
 - `Sub-Category`
 - `Product Name`
 - `Sales`
+
